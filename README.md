@@ -7,8 +7,6 @@ BodyShapeCalculator is a user-friendly Windows Forms application designed to hel
 * **Interactive Style Quizzes:** Test your fashion knowledge and discover which styles, necklines, sleeves, and more best suit various body shapes. The quizzes provide immediate feedback and reinforce learning in a fun way (as seen in the application's quiz interface).
 * **(Future Feature - Planned):** Personalized style recommendations based on the identified body type, offering specific clothing suggestions and styling tips.
 
-*Example of an interactive style quiz.*
-
 ## Technologies Used
 * C#
 * .NET Framework
